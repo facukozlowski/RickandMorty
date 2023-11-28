@@ -1,0 +1,19 @@
+.navbar-container {
+  background-color: #333; /* Cambia el color de fondo */
+  display: flex;
+  justify-content: space-between;
+  padding: 10px; /* Añade espacio interno */
+}
+
+.navbar-button {
+  background-color: #555; /* Cambia el color de fondo de los botones */
+  color: white; /* Cambia el color del texto */
+  border: none; /* Elimina el borde del botón */
+  padding: 10px 20px; /* Añade espacio interno al botón */
+  margin: 0 10px; /* Añade margen a los botones */
+  text-decoration: none; /* Elimina el subrayado del enlace */
+}
+
+.navbar-button:hover {
+  background-color: #777; /* Cambia el color de fondo al pasar el cursor sobre el botón */
+}
